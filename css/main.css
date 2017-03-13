@@ -1,0 +1,70 @@
+body {
+  font-family: "Lato", sans-serif !important;
+  color: #000;
+  font-weight: 300;
+}
+
+@media only screen and (max-width: 700px) {
+  .title-super {
+    font-size: 35px;
+  }
+}
+
+@media only screen and (min-width: 701px) {
+  .title-super {
+    font-size: 55px;
+  }
+}
+
+
+.text-thin {
+  font-weight: 300;
+}
+
+.subtitle-super {
+  font-size: 25px;
+}
+
+.color-default {
+  color: #747704;
+}
+
+.image-title {
+  color: #bcbbbb;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.image-article {
+  text-align: center;
+}
+
+.image-article {
+  padding-left: 0px;
+  padding-right: 10px;
+}
+
+.image {
+  width: 100%;
+}
+
+.link {
+  font-size: 20px;
+}
+
+.img-logo {
+  min-width: 80px;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+.article-link {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bottom-border {
+  border-bottom: 5px solid #7d97ad;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
